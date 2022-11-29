@@ -1,8 +1,6 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-author: "{{ index $.Site.Params.lang.author $.Section}}"
-slug:
-draft: false
-toc: false
+draft: true
 ---
+

@@ -1,9 +1,20 @@
 ---
-title: Home
+title: "Home"
+draft: false
+menu:
+  main:
+    name: "Home"
+    weight: 1
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<image float="left" width="16em" height="16.5em" frame="true" caption="Yanling Zhao, M.A.in Emerging Media Studies  Email: lingzhao@bu.edu " src="img/profile.jpeg" >}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+ Welcome to my webpage!
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+I am Yanling Zhao(赵燕玲), a second-year master student majoring in Emerging Media Studies at [Boston University](https://www.bu.edu/)'s [College of Communication](https://www.bu.edu/com/). 
+
+My research interests focus on employing computational methods combined with survey and experiment to study the political communication, mis/disinformation, and media effects in the digital media era. More specifically, my research intends to explore the following research questions: (1) How dose digital media or technology take the effect on shaping public opinion or political behaviors? (2a) Who is the actor behind in generating and spreading mis/disinformation online, (2b) and which mechanisms could combat mis/disinformation circulation? (3) Whether and how mass media and news still affect people’s perceptions, attitudes, and public opinion both online and offline in the digital media era? 
+
+I got the M.A. in Chinese Culture from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)(Hong Kong) in 2017, B.A. in Journalism and Communication & B.B.A. in Accounting from [Xihua University](http://www.xhu.edu.cn/) (Sichuan, China) in 2016. Prior to the BU, I worked as a commentator and senior editor at the [Hong Kong Commercial Daily](http://www.hkcd.com/) for four years.                   
+
+{{< social >}}
