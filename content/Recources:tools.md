@@ -17,7 +17,7 @@ Twitter data is one of the most frequently used data in computational social sci
 
 I had experience with both Twitter Academic API and third party platforms, and I list some Pros/Cons of both ways here.
             
-Twitter Academic API: (Pros) free, flexible, and full-archive history data ;(Cons) Requiring programming skills as you need to write the code for access and scrape.
+Twitter Academic API: (Pros) free, flexible, and full-archive history data;(Cons) Requiring programming skills as you need to write the code for access and scrape.
 
 Third party platforms:(Pros) More user friendly interface/dashboard, you do not have to use programming skills, time saving when collecting large-scale data from cross platforms as most of those third party platforms allow you to select multiple data sources with the same search query ; (Cons) Paid, downloading limits per day or per downloading.
 
