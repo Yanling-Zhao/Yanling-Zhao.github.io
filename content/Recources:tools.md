@@ -19,7 +19,7 @@ I had experience with both Twitter Academic API and third party platforms, and I
             
 Twitter Academic API: (Pros) free, flexible, and full-archive history data; (Cons) Requiring programming skills as you need to write the code for access and scrape.
 
-Third party platforms: (Pros) More user friendly interface/dashboard, you do not have to use programming skills, time saving when collecting large-scale data from cross platforms as most of those third party platforms allow you to select multiple data sources with the same search query ; (Cons) Paid, downloading limits per day or per downloading action.
+Third party platforms: (Pros) 1. More user friendly interface/dashboard, so you do not have to use programming skills 2. More convenient when collecting large-scale data from cross platforms as most of those third party platforms allow you to select multiple data sources with the same search query ; (Cons) Paid, downloading limits per day or per downloading action.
 
 For more systematic and scientific assessment of those different tools, you could read this paper: [Chen, K., Duan, Z., & Yang, S. (2022). Twitter as research data: Tools, costs, skill sets, and lessons learned. Politics and the Life Sciences, 41(1), 114-130](https://www.cambridge.org/core/journals/politics-and-the-life-sciences/article/twitter-as-research-data/6B31D18C5E2F9B8F9C0301BFB05F1C27).
 
@@ -38,7 +38,7 @@ I started learning web design in [Dr. Lei Guo](https://www.leiguo.net/)'s EM757 
 We used the Wordpress combined with CSS and HTML for the course project. Later, I started learning another way for website building: Hugo + Github, this is exactly the way I used for this persobal website building! 
 
 Here are some Pros and Cons of "Hugo + Github" approach I summarized upon my own experience: (Pros) 1. Totally free! You can host your website on the github without paying any fee for the hosting sites or domain name. Of cource, if you are not satisfied with this type of "https://<Github UserName> .github.io." domain name, you can buy a domain name separately. 2. It is faster and easier for you to update contents on Website, as Hugo documentation stated "Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability." So, if you are blog writing enthusiasts, or you have the need to update text contents on your website frequently, go with Hugo!
- (Cons) 1. More complicated than using Content management systems (CMS) such as Wordpress, Blogger.com, Drupal, and Joomla, as you need to know and write basic HTML, CSS codes; 2. You have to adapt to write the code or content in text editor and Markdown file; 3. There is access limitation of Github host site, therefore, if you assume your website will have large volume of visitors, you'd better to buy a commercial host site.
+ (Cons) 1. More complicated than using Content management systems (CMS) such as Wordpress, Blogger.com, Drupal, and Joomla, as you need to know and write basic HTML, CSS codes; 2. You have to adapt to write the code or content in text editor and Markdown file; 3. There is access limitation of Github host site, therefore, if you presume your website will have large volume of visitors, you'd better to buy a commercial host site.
  
  If you are ready to use "Hugo + Github", check out those super useful tutorials:
  
