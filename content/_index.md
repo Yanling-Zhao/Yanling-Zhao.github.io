@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-{{<image float="left" width="16em" height="16.5em" frame="true" caption="Yanling Zhao, M.A.in Emerging Media Studies  Email: lingzhao@bu.edu " src="img/profile.jpeg" >}}
+{{<image float="left" width="18em" height="16.5em" frame="true" caption="Yanling Zhao, M.A.in Emerging Media Studies  Email: lingzhao@bu.edu " src="img/profile.jpeg" >}}
 
  Welcome to my webpage!
 
