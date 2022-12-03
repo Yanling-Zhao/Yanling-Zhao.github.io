@@ -11,7 +11,7 @@ menu:
 
  Welcome to my webpage!
 
-I am Yanling Zhao(赵燕玲), a second-year master student majoring in Emerging Media Studies at [Boston University](https://www.bu.edu/)'s [College of Communication](https://www.bu.edu/com/). 
+I am Yanling Zhao (赵燕玲), a second-year master student majoring in Emerging Media Studies at [Boston University](https://www.bu.edu/)'s [College of Communication](https://www.bu.edu/com/). 
 
 My research interests focus on employing computational methods combined with surveys and experiments to study the political communication, mis/disinformation, and media effects in the digital media era. More specifically, my research aims to explore the following research questions: (1) How dose digital media or technology take the effect on shaping public opinion or political behaviors? (2a) Who is the actor behind in generating and spreading mis/disinformation online, (2b) and which mechanisms could combat mis/disinformation circulation? (3) Whether and how mass media and news still affect people’s perceptions, attitudes, and public opinion both online and offline in the digital media era? 
 
