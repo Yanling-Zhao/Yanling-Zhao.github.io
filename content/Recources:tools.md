@@ -42,7 +42,7 @@ Here are some Pros and Cons of "Hugo + GitHub" approach I summarized upon my own
  
  If you are ready to use "Hugo + GitHub", check out those super useful tutorials:
  
-[Hugo official documentations and sources](https://gohugo.io/)
+[Hugo official documentations and sources](https://gohugo.io/); [Hugo official tutorials](https://gohugo.io/getting-started/quick-start/)
 
 [Hongtao Hao](https://hongtaoh.com/): [如何零基础免费搭建个人网站](https://hongtaoh.com/cn/2021/03/02/personal-website-tutorial/), [How to Deploy A Hugo Website Using GitHub Pages](https://hongtaoh.com/en/2021/04/05/hugo-deploy-github-actions/)
 
