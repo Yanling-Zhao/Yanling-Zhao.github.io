@@ -11,7 +11,7 @@ menu:
 
  Welcome to my webpage!
 
-I am Yanling Zhao (赵燕玲), currently a PhD student in Media, Technology, and Society at [Northwestern University] (https://www.northwestern.edu/)'s [School of Communication](https://communication.northwestern.edu/), advised by [Dr.Erik C. Nisbet](https://communication.northwestern.edu/faculty/erik-nisbet.html).
+I am Yanling Zhao (赵燕玲), currently a PhD student in Media, Technology, and Society at [Northwestern University](https://www.northwestern.edu/)'s [School of Communication](https://communication.northwestern.edu/), advised by [Dr.Erik C. Nisbet](https://communication.northwestern.edu/faculty/erik-nisbet.html).
 
 My research interests focus on political communication, media effects, and mis/disinformation in new technology and digital media era. Methodologically, I mainly employ computational methods such as NLP, machine learning combined with surveys and experiments in my study. More specifically, my research aims to explore the following research questions: (1) How dose new technology such as AI or digital media such as social media take the effect on shaping public opinion or political behaviors? (2) Whether and how mass media and news still affect people’s perceptions, attitudes, and public opinion both online and offline in the digital media era? (3a) Who is the actor behind in generating and spreading mis/disinformation online, (3b) and which mechanisms could combat mis/disinformation circulation? 
 
