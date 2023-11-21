@@ -8,8 +8,9 @@ menu:
 ---
 
 In this page, I will document and share some useful self-learn recources and tools.
-
-### 1. If you are on the road of applying for PhD in communication related fields in the U.S., hope my experience could help you, PLS check here: [How to apply for PhD in communication in the United States of America?](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a5ce1b86-1fcd-4792-bb38-e27ffce23575).
+---
+### 1. If you are on the road of applying for PhD in communication related fields in the U.S., hope my experience could help you, PLS check here:
+[How to apply for PhD in communication in the United States of America?](https://acrobat.adob.com/id/urn:aaid:sc:AP:a5ce1b86-1fcd-4792-bb38-e27ffce23575)
 ---
 
 ### 2. How to extract Twitter data from Twitter Academic API? (Unfortunately, below tips can not be applied as of now due to Twitter (X) limiting free API access)
