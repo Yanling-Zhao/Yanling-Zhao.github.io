@@ -9,8 +9,9 @@ menu:
 
 In this page, I will document and share some useful self-learn recources and tools.
 
+### 1. If you are on the road of applying for PhD in communication related fields in the U.S., hope my experience could help you, PLS check here: [How to apply for PhD in communication in the United States of America?] (https://acrobat.adobe.com/id/urn:aaid:sc:AP:a5ce1b86-1fcd-4792-bb38-e27ffce23575).
 
-### 1. How to extract Twitter data from Twitter Academic API?
+### 2. How to extract Twitter data from Twitter Academic API? (Unfortunately, below tips can not be applied as of now due to Twitter (X) limiting free API access)
 ---
 
 Twitter data is one of the most frequently used data in computational social science research. Currently, there are two major ways for researchers to access the twitter data: One is [Twitter APIs](https://developer.twitter.com/en/docs/twitter-api) (all levels); another one is commercial third party platforms such as [Brandwatch](https://www.brandwatch.com/), [Synthesio](https://www.synthesio.com/).
@@ -31,7 +32,7 @@ I used the twitter Academic API v2 endpoint with "academictwitteR" package to co
 
 Good luck with your data collection trip!
 
-### 2. How to build up a personal website?
+### 3. How to build up a personal website?
 ---
 I started learning web design in [Dr. Lei Guo](https://www.leiguo.net/)'s EM757 “User-Producers 2.0: Developing Interactivity” class at BU. Largely credited to this class's content, there are different ways to create a website: 1. HTML + CSS coding by hand; 2. WYSIWYG Web authoring tools such as Adobe Dreamweaver; 3. Content management systems (CMS) such as Wordpress, Blogger.com, Drupal, and Joomla. 
 
