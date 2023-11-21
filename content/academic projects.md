@@ -22,7 +22,7 @@ menu:
 Ongoing Projects {style=text-align:center}
 ---   
  [5] Zhao, Y. Who is Spreading Misinformation? Social Bots, Misinformation, and 2020 U.S.
-      Presidential Election. (MA thesis, Committee: [Dr. Chris Wells](https://www.bu.edu/com/profile/chris-wells/), [Dr. Chris Chao Su](https://www.bu.edu/com/profile/chris-chao-su/))
+      Presidential Election. 
       
 [4] Paik, S., Guo, L., Zhou, N., Zhao, Y., Gao, G., Parekh, M., Ishwar, P., Betke, M., & Wijaya, D. T. 
     Crowdsourcing emotions on multimodal framing effects of gun violence news. 

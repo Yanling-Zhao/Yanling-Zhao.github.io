@@ -17,4 +17,4 @@ I am the author and editor member of COMputation Island (“计传岛” in Chin
 
 Website Design  {style=text-align:center}
 ---
-I and my teammates: Danielle Annecston, Cathleen Cusachs, Danilo Martinez, and Xiner Zhang designed this [[website]](https://2021.philemerge.com/b_group4/) for the NGO Organization "Paper Bag Mask Foundation" in the course “User-Producers 2.0: Developing Interactivity” at BU. We mainly used the html, css, and the WordPress.
+I and my teammates: Danielle Annecston, Cathleen Cusachs, Danilo Martinez, and Xiner Zhang designed this [[website]](https://2021.philemerge.com/b_group4/) for the NGO Organization "Paper Bag Mask Foundation" in the course “User-Producers 2.0: Developing Interactivity” at Boston U. We mainly used the html, css, and the WordPress.
